@@ -1,0 +1,19 @@
+table{
+    width: 100%;
+}
+#row1{
+    background-color: green;
+}
+#row2{
+    background-color: gray;
+}
+#row3{
+    background-color: blue;
+}
+#row4{
+    background-color: violet;
+}
+td{
+    width: 20%;
+    height: 30px;
+}
